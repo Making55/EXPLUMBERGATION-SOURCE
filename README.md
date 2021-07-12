@@ -22,7 +22,11 @@ just do like
 ```
 lime test windows -release
 ```
+or in case you want to test do like
 
+```
+lime test windows -debug
+```
 or what ever platform, be it linux or mac or smth lol!
 
 

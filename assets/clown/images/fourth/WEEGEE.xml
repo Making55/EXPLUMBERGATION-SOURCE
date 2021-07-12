@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="WEEGEE.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="WEEGEE0000" x="0" y="0" width="345" height="599" frameX="-33" frameY="0" frameWidth="378" frameHeight="599"/>
+	<SubTexture name="WEEGEE0001" x="345" y="0" width="354" height="581" frameX="-15" frameY="-18" frameWidth="378" frameHeight="599"/>
+	<SubTexture name="WEEGEE0002" x="699" y="0" width="353" height="575" frameX="0" frameY="-24" frameWidth="378" frameHeight="599"/>
+	<SubTexture name="WEEGEE0003" x="345" y="0" width="354" height="581" frameX="-15" frameY="-18" frameWidth="378" frameHeight="599"/>
+	<SubTexture name="WEEGEE0004" x="0" y="0" width="345" height="599" frameX="-33" frameY="0" frameWidth="378" frameHeight="599"/>
+</TextureAtlas>

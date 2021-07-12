@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Auditor.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Auditor0000" x="0" y="0" width="822" height="1090" frameX="0" frameY="0" frameWidth="836" frameHeight="1117"/>
+	<SubTexture name="Auditor0001" x="822" y="0" width="815" height="1109" frameX="0" frameY="0" frameWidth="836" frameHeight="1117"/>
+	<SubTexture name="Auditor0002" x="1637" y="0" width="824" height="1105" frameX="0" frameY="0" frameWidth="836" frameHeight="1117"/>
+	<SubTexture name="Auditor0003" x="2461" y="0" width="827" height="1102" frameX="0" frameY="0" frameWidth="836" frameHeight="1117"/>
+	<SubTexture name="Auditor0004" x="3288" y="0" width="830" height="1109" frameX="0" frameY="0" frameWidth="836" frameHeight="1117"/>
+	<SubTexture name="Auditor0005" x="4118" y="0" width="836" height="1090" frameX="0" frameY="0" frameWidth="836" frameHeight="1117"/>
+	<SubTexture name="Auditor0006" x="4954" y="0" width="828" height="1117" frameX="0" frameY="0" frameWidth="836" frameHeight="1117"/>
+	<SubTexture name="Auditor0007" x="5782" y="0" width="827" height="1091" frameX="0" frameY="0" frameWidth="836" frameHeight="1117"/>
+	<SubTexture name="Auditor0008" x="6609" y="0" width="818" height="1109" frameX="0" frameY="0" frameWidth="836" frameHeight="1117"/>
+	<SubTexture name="Auditor0009" x="0" y="1117" width="816" height="1105" frameX="0" frameY="0" frameWidth="836" frameHeight="1117"/>
+	<SubTexture name="Auditor0010" x="816" y="1117" width="809" height="1102" frameX="0" frameY="0" frameWidth="836" frameHeight="1117"/>
+	<SubTexture name="Auditor0011" x="1625" y="1117" width="805" height="1109" frameX="0" frameY="0" frameWidth="836" frameHeight="1117"/>
+	<SubTexture name="Auditor0012" x="2430" y="1117" width="808" height="1090" frameX="0" frameY="0" frameWidth="836" frameHeight="1117"/>
+	<SubTexture name="Auditor0013" x="3238" y="1117" width="808" height="1117" frameX="0" frameY="0" frameWidth="836" frameHeight="1117"/>
+	<SubTexture name="Auditor0014" x="4046" y="1117" width="812" height="1091" frameX="0" frameY="0" frameWidth="836" frameHeight="1117"/>
+	<SubTexture name="Auditor0015" x="4858" y="1117" width="800" height="1109" frameX="0" frameY="0" frameWidth="836" frameHeight="1117"/>
+	<SubTexture name="Auditor0016" x="5658" y="1117" width="796" height="1105" frameX="0" frameY="0" frameWidth="836" frameHeight="1117"/>
+	<SubTexture name="Auditor0017" x="6454" y="1117" width="809" height="1102" frameX="0" frameY="0" frameWidth="836" frameHeight="1117"/>
+	<SubTexture name="Auditor0018" x="7263" y="1117" width="817" height="1109" frameX="0" frameY="0" frameWidth="836" frameHeight="1117"/>
+	<SubTexture name="Auditor0019" x="0" y="2234" width="825" height="1090" frameX="0" frameY="0" frameWidth="836" frameHeight="1117"/>
+	<SubTexture name="Auditor0020" x="825" y="2234" width="833" height="1117" frameX="0" frameY="0" frameWidth="836" frameHeight="1117"/>
+	<SubTexture name="Auditor0021" x="1658" y="2234" width="829" height="1091" frameX="0" frameY="0" frameWidth="836" frameHeight="1117"/>
+	<SubTexture name="Auditor0022" x="2487" y="2234" width="833" height="1109" frameX="0" frameY="0" frameWidth="836" frameHeight="1117"/>
+	<SubTexture name="Auditor0023" x="3320" y="2234" width="828" height="1105" frameX="0" frameY="0" frameWidth="836" frameHeight="1117"/>
+	<SubTexture name="Auditor0024" x="4148" y="2234" width="829" height="1102" frameX="0" frameY="0" frameWidth="836" frameHeight="1117"/>
+	<SubTexture name="Auditor0025" x="4977" y="2234" width="824" height="1109" frameX="0" frameY="0" frameWidth="836" frameHeight="1117"/>
+	<SubTexture name="Auditor0026" x="5801" y="2234" width="822" height="1091" frameX="0" frameY="0" frameWidth="836" frameHeight="1117"/>
+	<SubTexture name="Auditor0027" x="6623" y="2234" width="827" height="1117" frameX="0" frameY="0" frameWidth="836" frameHeight="1117"/>
+	<SubTexture name="Auditor0028" x="0" y="3351" width="831" height="1091" frameX="0" frameY="0" frameWidth="836" frameHeight="1117"/>
+	<SubTexture name="Auditor0029" x="831" y="3351" width="835" height="1109" frameX="0" frameY="0" frameWidth="836" frameHeight="1117"/>
+</TextureAtlas>

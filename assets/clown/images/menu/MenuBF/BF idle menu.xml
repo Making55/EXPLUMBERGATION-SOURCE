@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BF idle menu.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF idle menu0000" x="0" y="0" width="751" height="435" frameX="-43" frameY="-48" frameWidth="798" frameHeight="483"/>
+	<SubTexture name="BF idle menu0001" x="751" y="0" width="702" height="444" frameX="-92" frameY="-39" frameWidth="798" frameHeight="483"/>
+	<SubTexture name="BF idle menu0002" x="0" y="444" width="780" height="457" frameX="-15" frameY="-26" frameWidth="798" frameHeight="483"/>
+	<SubTexture name="BF idle menu0003" x="780" y="444" width="795" height="483" frameX="0" frameY="0" frameWidth="798" frameHeight="483"/>
+	<SubTexture name="BF idle menu0004" x="0" y="927" width="748" height="453" frameX="-47" frameY="-30" frameWidth="798" frameHeight="483"/>
+	<SubTexture name="BF idle menu0005" x="748" y="927" width="730" height="417" frameX="-65" frameY="-66" frameWidth="798" frameHeight="483"/>
+	<SubTexture name="BF idle menu0006" x="0" y="1380" width="686" height="440" frameX="-112" frameY="-43" frameWidth="798" frameHeight="483"/>
+	<SubTexture name="BF idle menu0007" x="686" y="1380" width="762" height="442" frameX="-36" frameY="-41" frameWidth="798" frameHeight="483"/>
+	<SubTexture name="BF idle menu0008" x="0" y="1822" width="782" height="457" frameX="-15" frameY="-26" frameWidth="798" frameHeight="483"/>
+	<SubTexture name="BF idle menu0009" x="782" y="1822" width="797" height="483" frameX="0" frameY="0" frameWidth="798" frameHeight="483"/>
+	<SubTexture name="BF idle menu0010" x="0" y="2305" width="750" height="453" frameX="-47" frameY="-30" frameWidth="798" frameHeight="483"/>
+	<SubTexture name="BF idle menu0011" x="750" y="2305" width="732" height="417" frameX="-65" frameY="-66" frameWidth="798" frameHeight="483"/>
+	<SubTexture name="BF idle menu0012" x="0" y="2758" width="685" height="440" frameX="-112" frameY="-43" frameWidth="798" frameHeight="483"/>
+	<SubTexture name="BF idle menu0013" x="685" y="2758" width="761" height="442" frameX="-36" frameY="-41" frameWidth="798" frameHeight="483"/>
+</TextureAtlas>

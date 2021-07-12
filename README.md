@@ -1,4 +1,4 @@
-# Vs. Tricky (trickster, what ever)
+# Vs. Tricky basically (trickster, what ever) - credits to KadeDev
 
 ok ok so heres the build instructions.
 
